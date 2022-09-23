@@ -9,7 +9,7 @@ function Footer(props){
                     </div>
                 </div>
                 <div className="col s12 l4">
-                    <h2>Association Of Computing Machinery , Manipal</h2>
+                    <h2> Made with ❤️ by MITians.. </h2>
                 </div>
                 <div class="col l1"></div>
                 <div className="col s12 l2 ">
@@ -22,11 +22,11 @@ function Footer(props){
                     <div  style={{lineHeight:0.9}}><br/></div>
                     <div  class=" hide-on-large-only" style={{lineHeight:0.9}}><br/></div>
                     <div class="row " style={{display:"flex",justifyContent:"space-evenly"}}>
-                    <div class="col s2 " ><a style={{color:"white"}} href="https://www.instagram.com/acm_manipal/?hl=en"><i class="fab fa-instagram fa-lg"></i></a></div>
-                    <div class="col s2 "><a style={{color:"white"}} href="https://github.com/acmmanipal/"><i class="fab fa-github-alt fa-lg "></i></a> </div>
-                    <div class="col s2 " ><a style={{color:"white"}} href="https://www.facebook.com/acm.manipal"><i class="fab fa-facebook-f fa-lg "></i></a></div>
-                    <div class="col s2 " ><a style={{color:"white"}} href="https://www.linkedin.com/school/acm-manipal/>"><i class="fab fa-linkedin-in fa-lg"></i></a></div>
-                    <div class="col s2 " ><a style={{color:"white"}} href="https://medium.com/the-acm-manipal-blog"><i class="fab fa-medium fa-lg"></i></a></div>
+                    <div class="col s2 " ><a style={{color:"white"}} href="#"><i class="fab fa-instagram fa-lg"></i></a></div>
+                    <div class="col s2 "><a style={{color:"white"}} href="#"><i class="fab fa-github-alt fa-lg "></i></a> </div>
+                    <div class="col s2 " ><a style={{color:"white"}} href="#"><i class="fab fa-facebook-f fa-lg "></i></a></div>
+                    <div class="col s2 " ><a style={{color:"white"}} href="#>"><i class="fab fa-linkedin-in fa-lg"></i></a></div>
+                    <div class="col s2 " ><a style={{color:"white"}} href="#"><i class="fab fa-discord fa-lg"></i></a></div>
                     </div>
                 </div>
                 

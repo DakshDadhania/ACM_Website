@@ -1,8 +1,8 @@
 [
     {
-        "name": "Utkarsh Bajaj",
-        "image": "/assets/images/utkarsh.png",
-        "position": "Chairperson",
+        "name": "Daksh Dadhania",
+        "image": "/assets/images/.png",
+        "position": "",
         "social_media_urls": {
             "medium":"#",
             "github":"#",
@@ -10,39 +10,9 @@
         }
     },
     {
-        "name": "Leander Maben",
-        "image": "/assets/images/leander.jpg",
-        "position": "Vice Chairperson",
-        "social_media_urls": {
-            "medium":"https://medium.com/@leander.maben",
-            "github":"https://github.com/leandermaben",
-            "linkedin":"https://www.linkedin.com/in/leander-maben/"
-        }
-    },
-    {
-        "name": "Shruti Verma",
-        "image": "/assets/images/shruti.jpg",
-        "position": "General Secretary",
-        "social_media_urls": {
-            "medium":"#",
-            "github":"https://github.com/shrutiv1000",
-            "linkedin":"https://www.linkedin.com/in/shruti-verma-91b058166/"
-        }
-    },
-    {
-        "name": "Baidyanath Kundu",
-        "image": "/assets/images/baidya.jpg",
-        "position": "Technical Head",
-        "social_media_urls": {
-            "medium":"https://medium.com/@sudo_panda",
-            "github":"https://github.com/sudo-panda",
-            "linkedin":"https://in.linkedin.com/in/sudo-panda"
-        }
-    },
-    {
-        "name": "Garima Singh",
-        "image": "/assets/images/garima.jpg",
-        "position": "Membership Chairperson",
+        "name": "Siddharth Mittal",
+        "image": "/assets/images/.jpg",
+        "position": "",
         "social_media_urls": {
             "medium":"#",
             "github":"#",
@@ -50,9 +20,9 @@
         }
     },
     {
-        "name": "Saksham Mehta",
-        "image": "/assets/images/saksham.jpg",
-        "position": "Treasurer",
+        "name": "Raayan Sahu",
+        "image": "/assets/images/.jpg",
+        "position": "",
         "social_media_urls": {
             "medium":"#",
             "github":"#",
@@ -60,13 +30,73 @@
         }
     },
     {
-        "name": "Ishika Gupta",
-        "image": "/assets/images/ishika.jpg",
-        "position": "Social Media and Graphics Head",
+        "name": "Aiswarya Anand",
+        "image": "/assets/images/.jpg",
+        "position": "",
         "social_media_urls": {
-            "medium":"https://medium.com/@ishikagupta1919",
-            "github":"https://github.com/ishikagupta1919",
-            "linkedin":"https://www.linkedin.com/in/ishika-g-8653a3135"
+            "medium":"#",
+            "github":"#",
+            "linkedin":"#"
+        }
+    },
+    {
+        "name": "Sreya Chunduri",
+        "image": "/assets/images/.jpg",
+        "position": "",
+        "social_media_urls": {
+            "medium":"#",
+            "github":"#",
+            "linkedin":"#"
+        }
+    },
+    {
+        "name": "Mihir Patel",
+        "image": "/assets/images/.jpg",
+        "position": "",
+        "social_media_urls": {
+            "medium":"#",
+            "github":"#",
+            "linkedin":"#"
+        }
+    },
+    {
+        "name": "Raghav Shah",
+        "image": "/assets/images/.jpg",
+        "position": "",
+        "social_media_urls": {
+            "medium":"#",
+            "github":"#",
+            "linkedin":"#"
+        }
+    },
+    {
+        "name": "Kush Agarwal",
+        "image": "/assets/images/.jpg",
+        "position": "",
+        "social_media_urls": {
+            "medium":"#",
+            "github":"#",
+            "linkedin":"#"
+        }
+    },
+    {
+        "name": "Dhruv Bajaj",
+        "image": "/assets/images/.jpg",
+        "position": "",
+        "social_media_urls": {
+            "medium":"#",
+            "github":"#",
+            "linkedin":"#"
+        }
+    },
+    {
+        "name": "Prerna Mittal",
+        "image": "/assets/images/.jpg",
+        "position": "",
+        "social_media_urls": {
+            "medium":"#",
+            "github":"#",
+            "linkedin":"#"
         }
     }
 ]

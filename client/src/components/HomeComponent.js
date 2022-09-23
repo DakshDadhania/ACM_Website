@@ -34,7 +34,7 @@ function Home(props) {
           <div className="row">
             <img src={"/assets/images/logo.png"} className="launch-logo" />
           </div>
-          <div className="row  motto">Experience Computing</div>
+          <div className="row  motto">Experience Hacking!</div>
         </div>
       </div>
       <div id="about" className="container about-us">
@@ -52,19 +52,19 @@ function Home(props) {
           competency.
         </h6>
         <div className="row miss-vis">
-          <div className="col s12 m6 mission">
+          <div className=" m6 mission">
             <img
               className="responsive-img circle "
               src="assets/images/mission.jpg"
             />
-            <h3>The Mission</h3>
+            <h3>The Story</h3>
             <p>
               To create a thriving Computer Science culture at MIT Manipal by
               sharing of knowledge and ideas, and promoting and nurturing the
               interest and curiosity of students in relevant fields.
             </p>
           </div>
-          <div className="col s12 m6 vision">
+          {/* <div className="col s12 m6 vision">
             <img
               className="responsive-img circle"
               src="assets/images/vision.jpg"
@@ -74,12 +74,12 @@ function Home(props) {
               To be the best at what we do and achieve heights of excellence in research , development
               and competitions while constantly giving back to the student community.
             </p>
-          </div>
+          </div> */}
         </div>
       </div>
       <div id="domain" className="domain ">
         <div className="container">
-          <h2>Domains</h2>
+          {/* <h2>Domains</h2> */}
           <Suspense fallback={<div className="white-text">Loading......</div>}>
             <Domain />
           </Suspense>
@@ -87,7 +87,7 @@ function Home(props) {
       </div>
       <div id="board" className="board">
         <div className="container">
-          <h2>Meet The Board</h2>
+          <h2>Contributers</h2>
           <Suspense fallback={<div className="white-text">Loading......</div>}>
             <Board />
           </Suspense>

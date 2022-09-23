@@ -3,7 +3,7 @@ import React from 'react';
 function Event(props){
     return (
         <div className="container event">
-            <h2>Events</h2>
+            <h2>Let the Hunt Begin...</h2>
                 <div className="row">
                     <div className="card event-scav">
                         <h5>Scavenger Hunt</h5>

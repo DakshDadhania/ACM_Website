@@ -65,8 +65,8 @@ function Navbar(props){
     if(page=='/home'){
         home=[
             <a className="btn-flat nav-item" href="#about">About</a>,
-            <a className="btn-flat nav-item" href="#domain">Domains</a>,
-            <a className="btn-flat nav-item" href="#board">Board</a>
+            // <a className="btn-flat nav-item" href="#domain">Domains</a>,
+            <a className="btn-flat nav-item" href="#board">Contributers</a>
         ];
     }else{
         home=<a className="btn-flat nav-item" href="/home">Home</a>;
@@ -121,7 +121,7 @@ function Navbar(props){
                 (window.innerWidth>600)&&
                     (<div className="pages">
                         {home}
-                        <a className="btn-flat nav-item" href="/event">Events</a>
+                        <a className="btn-flat nav-item" href="/event">Start</a>
                         {sign}
                     
                 </div>) 
